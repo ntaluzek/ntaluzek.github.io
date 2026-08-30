@@ -1,0 +1,12 @@
+baseURL = 'https://ntaluzek.github.io/'
+locale = 'en-us'
+title = 'Nick Taluzek'
+theme = 'PaperMod'
+
+paginate = 10
+
+[params]
+  showReadingTime = true
+  showPostsOnHomePage = true
+  ShowShareButtons = false
+  ShowToc = true
