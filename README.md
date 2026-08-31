@@ -28,6 +28,21 @@ Add any images for the post directly into that post's folder alongside `index.md
 ![Alt text](cover.jpg)
 ```
 
+### Sub-topic templates (e.g. bagels)
+
+Hugo's archetype matching only looks at the top-level section (`food`, `woodworking`, `3d-printing`) — it can't target a nested subfolder like `content/food/bagels/` automatically. For a subfolder that wants its own defaults beyond the section archetype, there's a plain template file under `templates/` instead of an archetype:
+
+- `templates/bagel-post.md` — for anything under `content/food/bagels/`, with bagel-specific `tags`, a `series: [Bagels]` default, and the full PaperMod cover option set (`image`, `alt`, `caption`, `relative`, `hidden`, `responsiveImages`).
+
+To use it: create the post's folder yourself, copy the template in as `index.md`, and fill in `title` and `date` by hand (unlike `hugo new`, copying a static template doesn't auto-fill these):
+
+```
+mkdir content/food/bagels/2026-01-01-new-bagel-post
+cp templates/bagel-post.md content/food/bagels/2026-01-01-new-bagel-post/index.md
+```
+
+Add more files under `templates/` the same way for any other subfolder that needs its own defaults.
+
 ### Publishing
 
 1. Write the post with `draft: true` (the archetype default) — it stays out of the live build.
