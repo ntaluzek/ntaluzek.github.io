@@ -95,4 +95,4 @@ The splits are more likely down to the boil. 15 to 25 seconds is very short, so 
 
 - Increase the yeast so I have less time out of the fridge before proofing is complete
 - Boil longer, 30 to 40 seconds per side, to build a shell with enough strength to resist splitting. This will cost some oven spring and give a denser crumb, but at 15 to 25 seconds I'm at the extreme end of that tradeoff
-- Settle back into the 24 to 48 hour range. The 
+- Settle back into the 24 to 48 hour range. The extra time didn't seem to offer any noticeable flavor improvements and may have negatively impacted the dough's structure. 
