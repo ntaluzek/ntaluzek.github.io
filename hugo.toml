@@ -5,8 +5,30 @@ theme = 'PaperMod'
 
 paginate = 10
 
+[taxonomies]
+  tag = 'tags'
+  series = 'series'
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
 [params]
   showReadingTime = true
   showPostsOnHomePage = true
   ShowShareButtons = false
   ShowToc = true
+
+[[menu.main]]
+  name = 'Search'
+  url = '/search/'
+  weight = 10
+
+[[menu.main]]
+  name = 'Tags'
+  url = '/tags/'
+  weight = 20
+
+[[menu.main]]
+  name = 'Series'
+  url = '/series/'
+  weight = 30
