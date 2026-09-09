@@ -1,0 +1,2 @@
+{{- $calloutsJS := resources.Get "js/callouts.js" | minify | fingerprint }}
+<script defer crossorigin="anonymous" src="{{ $calloutsJS.RelPermalink }}" integrity="{{ $calloutsJS.Data.Integrity }}"></script>

@@ -1,0 +1,2 @@
+{{- $calloutsCSS := resources.Get "css/callouts.css" | minify | fingerprint }}
+<link crossorigin="anonymous" href="{{ $calloutsCSS.RelPermalink }}" integrity="{{ $calloutsCSS.Data.Integrity }}" rel="stylesheet">
