@@ -1,5 +1,5 @@
 ---
-title: Banana Bread Bagels - #1
+title: "Banana Bread Bagels - #1"
 date: 2026-08-09
 draft: false
 description: "When life hands you brown spotted bananas..."
