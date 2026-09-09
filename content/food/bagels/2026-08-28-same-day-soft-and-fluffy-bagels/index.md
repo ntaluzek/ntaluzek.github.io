@@ -1,5 +1,5 @@
 ---
-title: "Same-Day Soft Bagels v0.0.1"
+title: "Same-Day Soft Bagels - #1"
 date: 2026-08-28
 description: Going the opposite direction on purpose - light, soft, and done in an afternoon
 draft: false
@@ -9,7 +9,7 @@ tags:
 series:
   - Bagels
 cover:
-  image: "same-day-bagels-v0.0.1-baked.jpg"
+  image: "same-day-bagels-1-baked.jpg"
   alt: ""
   caption: ""
   relative: true
@@ -68,16 +68,16 @@ Shaping the bagels was interesting as the bulk ferment led to a lot of gas being
 
 I had thought the higher hydration and lower gluten content of the dough would have made shaping and sealing easier but it was actually the opposite. It was harder to evenly roll out the ropes and was easier to squish and misshape during even the simplest handling tasks like setting the dough onto its baking sheet.
 
-![After 2nd proofing](same-day-bagels-v0.0.1-proofed.jpg)
+![After 2nd proofing](same-day-bagels-1-proofed.jpg)
 
-![After boil](same-day-bagels-v0.0.1-boiled.jpg)
+![After boil](same-day-bagels-1-boiled.jpg)
 
 ## Results
 As expected (and desired for this one batch) the bagels were soft and their flavor was slightly sweet. I would say these were like bagel shaped bread rolls. The boil and bake process still gave them the signature bagel crust chew but the inside didn't have any of the crumb chew that I have come to know a bagel as having.
 
 It wasn't as fluffy as I thought they would be given the higher hydration. I am thinking that the high oil content which made the crumb soft also meant a shorter gluten network that couldn't trap gas in the same way that would have yielded large air pockets that a fluffy bake would have needed.
 
-![Finished Bagels](same-day-bagels-v0.0.1-baked.jpg)
+![Finished Bagels](same-day-bagels-1-baked.jpg)
 
 ## What I'd change next time
 - I won't be bothering with this another time, as there are not the types of bagels I am after but it could be interesting to try and create a same-day bagel recipe that tries to get as much of the dense, chewy, and complex flavored New York style bagel experience as possible.

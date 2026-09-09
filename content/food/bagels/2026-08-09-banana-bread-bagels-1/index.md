@@ -1,8 +1,8 @@
 ---
-title: Banana Bread Bagels v0.0.1
+title: Banana Bread Bagels - #1
 date: 2026-08-09
 draft: false
-description: ""
+description: "When life hands you brown spotted bananas..."
 tags:
   - food
   - bagels

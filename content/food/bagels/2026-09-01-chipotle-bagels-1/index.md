@@ -1,5 +1,5 @@
 ---
-title: "Chipotle Bagels v0.0.1"
+title: "Chipotle Bagels - #1"
 date: 2026-09-01
 draft: false
 description: "Smoky, spicy, and delicious chipotle bagels"
@@ -9,7 +9,7 @@ tags:
 series:
   - Bagels
 cover:
-  image: "chipotle-bagels-glamour.jpg"
+  image: "chipotle-bagels-1-glamour.jpg"
   alt: "Chipotle Bagels"
   caption: "Chipotle Bagels"
   relative: true
@@ -53,26 +53,26 @@ Everything went smoothly with this batch. The one thing I might want to keep in 
 
 The dough seemed a little dry so rolling and sealing took a bit of patience. I had to give the dough time to rest between each step of dividing, rolling, and sealing ends. 
 
-![Dough divided and formed into balls](chipotle-bagels-balls.jpg)
+![Dough divided and formed into balls](chipotle-bagels-1-balls.jpg)
 
-![Shaped bagels](chipotle-bagels-shaped.jpg)
+![Shaped bagels](chipotle-bagels-1-shaped.jpg)
 
-![After proofing at room temp](chipotle-bagels-proofed.jpg)
+![After proofing at room temp](chipotle-bagels-1-proofed.jpg)
 
 ## Results
 I'm very happy with this batch but there is room to improve.
 First the positives -  I loved the color of the dough before baking and the interior after baking.
 And I was super glad that they successfully proofed. I've had a handful of recent failures when it came to experimental flavors and didn't want to see that trend continue.
 
-![](chipotle-bagels-baked.jpg)
+![](chipotle-bagels-1-baked.jpg)
 
-![](chipotle-bagels-crumb.jpg)
+![](chipotle-bagels-1-crumb.jpg)
 
 Now room to improve - the chipotle flavor was present but didn't shine through as I had hoped. The smoky flavor was there and the burning spice was there, but it felt like the core flavor of chipotle was missing - the tasty spice. I don't think this is as simple as adding more chipotle pepper to the mix, but perhaps requires some additional prep to remove the seeds so you don't also increase the spice too much.
 
 On their own the bagels were delicious, but the flavor got covered up with any toppings - even a simple cream cheese. I ended up enjoying my first bagel of the batch as a sandwich topped with avocado, sour cream, hot sauce, cilantro, and a black bean burger. A great meal, but definitely covered up the chipotle flavor of the bagel.
 
-![](chipotle-bagels-sandwich.jpg)
+![](chipotle-bagels-1-sandwich.jpg)
 
 - Silicone sheet experiment - the bagel without the bagel board time certainly browned on the top and bottom more than the others. Additionally, the bottom of the bagel picked up the light patterning of the silicone sheet where it seems like the starches in the boiling liquid collected and baked on. That is not a great look for the bottom of the bagel.
 

@@ -1,5 +1,5 @@
 ---
-title: "Cinnamon Raisin Bagels v0.0.1"
+title: "Cinnamon Raisin Bagels - #1"
 date: 2026-08-24
 draft: false
 description: ""
@@ -9,7 +9,7 @@ tags:
 series:
   - Bagels
 cover:
-  image: "cinnamon-raisin-bagels-v0.0.1-plated.jpg"
+  image: "cinnamon-raisin-bagels-1-plated.jpg"
   alt: "5 cinnamon raisin bagels on a plate"
   caption: ""
   relative: true
@@ -57,7 +57,7 @@ Swirl filling:
 ## How it went
 Adding in the raisins and the cinnamon sugar paste was a nightmare. I needed to pat dry the raisins instead of just thinking that they would drain dry well enough. The extra water from the raisins made the dough wet and they didn't want to stay in well (similar to what I observed in the jalapenos from the jalapeno cheddar batch). I eventually got the raisins mixed in enough to my liking and then I tried the cinnamon sugar paste. Adding the water to turn it into a paste was a huge mistake. It made the dough even wetter and stickier, now with the added nuisance of the brown sugar. It was very difficult to incorporate and what I thought would be a simple task of swirling the dough turned into a battle of needing to knead the inclusions more thoroughly throughout. As I mixed the cinnamon sugar paste seemed to create layers that kept the gluten network from reforming. This lead to a wet shaggy dough. This made dividing and shaping into bagels very difficult but I powered through anyway. I was still determined to get these bagels baked to know how the flavor would come out.
 
-![Shaped bagels before cold ferment](cinnamon-raisin-bagels-v0.0.1-shaped.jpg)
+![Shaped bagels before cold ferment](cinnamon-raisin-bagels-1-shaped.jpg)
 
 The bagels did not proof well.
  
@@ -68,11 +68,11 @@ To rule out the shaped bagels being the problem, I submerged a test dough ball i
 ## Results
 Despite all of the struggles that were brought on by the raisin and cinnamon sugar inclusions, the bagels still turned out well. During baking they did manage to have a fair bit of oven spring and didn't end up being too dense like I suspected they would given that they didn't pass the float test. My hunch is that the shaggy gluten network didn't support a large network of air pockets and the raisins made the bagels a bit denser than plain ones would have been. 
 
-![Crust close up](cinnamon-raisin-bagels-v0.0.1-crust-blisters.jpg)
+![Crust close up](cinnamon-raisin-bagels-1-crust-blisters.jpg)
 
 Cutting into them revealed a pleasant swirl pattern that I was aiming for!
 
-![Inside crumb shot](cinnamon-raisin-bagels-v0.0.1-crumb.jpg)
+![Inside crumb shot](cinnamon-raisin-bagels-1-crumb.jpg)
  
 ## What I'd change next time
 The two candidate explanations are cinnamon suppression and dead yeast, and I don't have enough information to separate them yet.
